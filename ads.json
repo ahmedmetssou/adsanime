@@ -1,22 +1,28 @@
 {
-   "myPannel":"https://9anime.9anim.vip/api/", 
+    "data": 
+        {
+                "package": "com.kora.live.yassine.tv",
+                "server_url": "http://apmovann.com/yassine/speed_api.php",
+              
+                
+                
+                "FBrewardsAds": "xxxx_xxxxx",
+                "facebook_banner":"388737528991765_388737842325067",
+                "fbinter":"388737528991765_389234985608686",
+                "fbnative":"388737528991765_389235192275332",
+                
+                "unityGameID":"3756601", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"BannerCineflix",
+                "unityinter":"video",
 
-   "rewardAds":"ca-app-pub-3940256099942544/5224354917", 
 
-   "bannerAds":"ca-app-pub-3940256099942544/6300978111", 
-
-   "interAds": "ca-app-pub-3940256099942544/1033173712",
-
-   "nativeAds": "ca-app-pub-3940256099942544/2247696110",
-
-   "OpebAds": "ca-app-pub-3940256099942544/3419835294",
-
-   "PubId": "pub-3940256099942544",
-
-   "FBinterAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-   "FBbanerAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-   "FBnativeAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-
+                "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
+                "admob_banner":"ca-app-pub-394025609994254x/6300978111",
+                "admobnative":"ca-app-pub-394025609994254x/2247696110",
+                "admobinter":"ca-app-pub-394025609994254x/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544xx/5224354917"            
+        }
+       
+ 
 }
