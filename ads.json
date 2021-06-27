@@ -2,19 +2,14 @@
     "data": 
         {
                 "package": "com.kora.live.yassine.tv",
+                
                 "server_url": "http://apmovann.com/yassine/speed_api.php",
-              
-                
-                
-                "FBrewardsAds": "xxxx_xxxxx",
-                "facebook_banner":"388737528991765_388737842325067",
-                "fbinter":"388737528991765_389234985608686",
-                "fbnative":"388737528991765_389235192275332",
-                
-                "unityGameID":"3756601", 
-                "unityrewardId":"rewardedVideo",
-                "unitybanner":"BannerCineflix",
-                "unityinter":"video",
+                "isAdmob" : "false",
+
+                "mopub_banner" : "b195f8dd8ded45fe847ad89ed1d016dax",
+                "mopub_interstitial":"24534e1901884e398f1253216226017ex",
+                "mopub_reward" : "920b6145fb1546cf8b5cf2ac34638bb7x",
+                "mopub_native" : "11a17b188668469fb0412708c3d16813x",
 
 
                 "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
